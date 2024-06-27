@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.StringUtilsSamplesTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2024-06-27T16:45:33" hostname="PC_MICHELE" time="0.062">
+  <properties/>
+  <testcase name="swapCaseInputMixedCase()" classname="org.example.StringUtilsSamplesTest" time="0.037"/>
+  <testcase name="substringWithEndGreaterThanLength()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="testSubstringUnicode()" classname="org.example.StringUtilsSamplesTest" time="0.001"/>
+  <testcase name="swapCaseInputWithSpacesStartingEndingToLowerCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringWithNegativeStartAndEnd()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringWithSpaceInput()" classname="org.example.StringUtilsSamplesTest" time="0.001"/>
+  <testcase name="substringWithControlCharacter()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringWithStartEqualToLength()" classname="org.example.StringUtilsSamplesTest" time="0.001"/>
+  <testcase name="swapCaseInputWithNumberCharacterAndAlphabeticalCharacter()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseMixedInput()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputWithSpacesStartingEndingToUpperCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputWithSpacesInBetweenToLowerCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseSpaceInput()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringWithNullInput()" classname="org.example.StringUtilsSamplesTest" time="0.002"/>
+  <testcase name="substringWithStartGreaterThanLength()" classname="org.example.StringUtilsSamplesTest" time="0.002"/>
+  <testcase name="swapCaseInputWithSpacesInBetweenToUpperCase()" classname="org.example.StringUtilsSamplesTest" time="0.001"/>
+  <testcase name="subStringWithBigNegativeEnd()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputWithSpacesInBetweenMixedCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputToLowerCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputWithSymbols()" classname="org.example.StringUtilsSamplesTest" time="0.001"/>
+  <testcase name="swapCaseNullInput()" classname="org.example.StringUtilsSamplesTest" time="0.003"/>
+  <testcase name="substringNegativeStart()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringWithSameStartAndEnd()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringWithEmptyInput()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputToUpperCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputWithSpacesStartingEndingMixedCase()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="subStringWithBigNegativeStart()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseInputWithNumberCharacter()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="substringNegativeEnd()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <testcase name="swapCaseEmptyInput()" classname="org.example.StringUtilsSamplesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
